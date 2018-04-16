@@ -9,9 +9,10 @@ import org.testng.annotations.Test;
 public class AppTest 
    
 {
-    @Test
+   @Test
     public void firstMethod()
     {
     	System.out.println("First Git");
     }
-}
+    
+ }
