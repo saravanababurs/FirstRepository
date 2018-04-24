@@ -13,6 +13,7 @@ public class AppTest
     public void firstMethod()
     {
     	System.out.println("First Git");
+    	System.out.println("Simple Git");
     }
    
  }
